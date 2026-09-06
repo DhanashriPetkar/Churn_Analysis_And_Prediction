@@ -149,37 +149,21 @@ The dashboard is interactive, allowing users to filter and explore different cus
 
 # 🖥️ Dashboard Screenshots
 
-## Executive Summary Dashboard
+## 📊 Churn Analysis – Summary
 
-<!-- Add your screenshot here -->
-
-![Executive Summary Dashboard](images/executive-summary.png)
+![Churn Analysis Summary](images/churn-analysis-summary.png)
 
 ---
 
-## Customer Churn Analysis
+## 🔮 Churn Analysis – Prediction
 
-<!-- Add your screenshot here -->
-
-![Customer Churn Analysis](images/churn-analysis.png)
+![Churn Analysis Prediction](images/churn-analysis-prediction.png)
 
 ---
 
-## Churn Reasons / Service Analysis
+## 📋 Churn Reason Analysis
 
-<!-- Add your screenshot here -->
-
-![Churn Reasons](images/churn-reasons.png)
-
----
-
-## 🔮 Churn Prediction Dashboard
-
-<!-- Add your screenshot here -->
-
-![Churn Prediction Dashboard](images/churn-prediction.png)
-
-> **Tip:** Replace the image paths above with the actual screenshots you upload to the repository.
+![Churn Reason Analysis](images/churn-reason-analysis.png)
 
 ---
 
