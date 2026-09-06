@@ -1,4 +1,3 @@
-# Churn_Analysis_And_Prediction
 # 📉 Customer Churn Analysis & Prediction
 
 An end-to-end **Customer Churn Analysis and Prediction** project built using **SQL Server, Power BI, Python, and Machine Learning**.
